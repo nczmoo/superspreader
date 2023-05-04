@@ -1,0 +1,16 @@
+TODO
+XXX Don't spawn security on the outer 2 edges 
+XXX Infected clouds will bypass clean clouds and look trail
+XXX Change security to arrow that faces which way thy're looking
+XXX Change player avatar to o
+XXX Change sheep avatar to x
+XXX When sheep hit something, they change direction
+Fix game freezing with gameover security // not sure why its not implementing
+XXX Change clean clouds
+
+
+
+Let the clouds drift
+Be able to bypass sheep
+
+XXX The movement of the sheep feels erratic.
